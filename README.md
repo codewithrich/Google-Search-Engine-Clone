@@ -20,7 +20,7 @@ Please note that this is a replica and not an actual connection to the Google se
 
 To use the Google Search Replica web page, follow these steps:
 
-1. Open your web browser and navigate to [https://aviiciii.github.io/google_search/](https://aviiciii.github.io/google_search/](https://codewithrich.github.io/Google-Search-Engine-Clone/).
+1. Open your web browser and navigate to (https://codewithrich.github.io/Google-Search-Engine-Clone/).
 2. Enter your search query in the search bar.
 3. Press the "Search" button or hit the Enter key to simulate making a search on Google.
 4. The web page will display the search results based on the query you provided.
